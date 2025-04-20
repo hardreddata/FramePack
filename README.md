@@ -56,6 +56,9 @@ Note that the models will be downloaded automatically. You will download more th
 
 **Linux**:
 
+    git clone https://github.com/lllyasviel/FramePack.git
+    cd FramePack
+
 We recommend having an independent Python 3.10.
 
     pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
